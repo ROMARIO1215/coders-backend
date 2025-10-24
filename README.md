@@ -1,4 +1,3 @@
-```
 # Coders & IA Community - Backend
 
 Repositorio backend en PHP para el portal **Coders & IA**. Conexión a MySQL, endpoints REST, seguridad y modelado de la base de datos.  
@@ -155,5 +154,3 @@ El flujo de una petición típica sigue este camino para mantener el código org
 * **Fase 2: Módulos Core (Semanas 3-6)**: Desarrollo de los módulos de Recursos, Calendario, Comunidad y Repositorios.
 * **Fase 3: IA y Optimización (Semanas 7-8)**: Implementación de búsqueda semántica, recomendaciones y mejoras de rendimiento.
 * **Fase 4: Despliegue (Semanas 9-10)**: Puesta en producción, configuración de monitoreo y documentación final.
-
-```
